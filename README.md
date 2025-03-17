@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Akash Yadav!  
 
-🚀 **Final-year CS student | AI Enthusiast | Startup Builder**  
+🚀 **Final-year CS student | AI Enthusiast | Builder**  
 
 </div>
 
