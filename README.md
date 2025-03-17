@@ -1,12 +1,14 @@
 <div align="center">
-
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimakashy00&count_bg=%2300D96E&title_bg=%23333230&icon=postwoman.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 # 👋 Hey, I'm Akash Yadav!  
 
-🚀 **Final-year CS student | AI Enthusiast | Builder**  
-
+🚀 **Final-year CS student | AI Enthusiast | Builder** 
 </div>
 
-I’m passionate about **AI agents, startups, and building products that make an impact**. I built **YTNotes**, and now I’m working on an **AI Interviewer** while exploring the future of AI-driven automation.  
+I’m passionate about **AI agents, startups, and building products that make an impact**. </br>
+I built **YTNotes**, and now I’m working on an **AI Interviewer** while exploring the future of AI-driven automation.
+
 
 
 ## 💫 About Me  
@@ -25,7 +27,6 @@ Welcome to my GitHub! Here, you'll find projects on:
 
 
 ## 🌐 Socials  
-
 <p align="center">
   <a href="mailto:imakashy00@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" /> 
@@ -51,7 +52,7 @@ Welcome to my GitHub! Here, you'll find projects on:
   
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=imakashy00&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=imakashy00&theme=transparent&hide_border=true)
