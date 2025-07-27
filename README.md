@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Akash Yadav!  
 
-🚀 **Final-year CS student | AI Enthusiast | Builder** 
+🚀 **Software Developer** 
 </div>
 
 I’m passionate about **AI agents, startups, and building products that make an impact**. </br>
@@ -12,7 +12,6 @@ I built **YTNotes**, and now I’m working on an **AI Interviewer** while explor
 
 ## 💫 About Me  
 🔭 I’m currently working on **AI Interviewer**  
-👯 I’m looking to collaborate on **AI Agent Software**  
 🤝 I’m open to **job opportunities**  
 🌱 I’m currently learning **AI Agents, RAG , Finance**  
 💬 Ask me about **SaaS, Startups, and AI**  
