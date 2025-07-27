@@ -1,6 +1,5 @@
 <div align="center">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimakashy00&count_bg=%2300D96E&title_bg=%23333230&icon=postwoman.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 # 👋 Hey, I'm Akash Yadav!  
 
 🚀 **Final-year CS student | AI Enthusiast | Builder** 
