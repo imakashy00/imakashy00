@@ -44,7 +44,7 @@ Welcome to my GitHub! Here, you'll find projects on:
 ## 👨‍💻 Tech Stack:
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,react,nextjs,postgresql,mongodb,git,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgresql,mongodb,git,linux" />
   </a>
 </p>
   
