@@ -6,22 +6,19 @@
 </div>
 
 I’m passionate about **AI agents, startups, and building products that make an impact**. </br>
-I built **YTNotes**, and now I’m working on an **AI Interviewer** while exploring the future of AI-driven automation.
+I built **YTNotes**, and now I’m exploring the future of AI-driven automation.
 
 
 
 ## 💫 About Me  
-🔭 I’m currently working on **AI Interviewer**  
-🤝 I’m open to **job opportunities**  
-🌱 I’m currently learning **AI Agents, RAG , Finance**  
-💬 Ask me about **SaaS, Startups, and AI**  
+🔭 I’m currently working as SDE at **LTM**  
+🌱 I’m currently learning **AI Agents, RAG, Finance**  
 ⚡ Always exploring new ideas to build impactful products!  
 
 ## 🔥 What You'll Find Here  
 Welcome to my GitHub! Here, you'll find projects on:  
-- **AI Agents & Chatbots 🤖**  
+- **AI Agents, Chatbots and Cli 🤖**  
 - **SaaS & Micro-SaaS 🚀**  
-- **Full-Stack Web Apps (Next.js, FastAPI, MongoDB,Postgresql, langchain) 💻**  
 
 
 ## 🌐 Socials  
@@ -66,5 +63,5 @@ Welcome to my GitHub! Here, you'll find projects on:
 ![](https://github-contributor-stats.vercel.app/api?username=imakashy00&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=imakashy00&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
+[![](https://visitcount.itsvg.in/api?id=imakashy00&icon=0&color=0)](https://visitcount.itsvg.in)
