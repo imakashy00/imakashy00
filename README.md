@@ -41,7 +41,7 @@ Welcome to my GitHub! Here, you'll find projects on:
 ## 👨‍💻 Tech Stack:
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,Javascript,Rust,postgresql" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,rust,postgresql" />
   </a>
 </p>
   
