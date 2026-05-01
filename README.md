@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=imakashy00)
+
 <div align="center">
   
 # 👋 Hey, I'm Akash Yadav!  
@@ -45,11 +47,3 @@ Welcome to my GitHub! Here, you'll find projects on:
   </a>
 </p>
   
-
-
-## 📊 GitHub Stats:
-[![](https://visitcount.itsvg.in/api?id=imakashy00&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
-
-![](https://nirzak-streak-stats.vercel.app/?user=imakashy00&theme=transparent&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imakashy00&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
