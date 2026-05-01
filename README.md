@@ -48,20 +48,8 @@ Welcome to my GitHub! Here, you'll find projects on:
 
 
 ## 📊 GitHub Stats:
-<!--
-![](https://github-readme-stats.vercel.app/api?username=imakashy00&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
+[![](https://visitcount.itsvg.in/api?id=imakashy00&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=imakashy00&theme=transparent&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imakashy00&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imakashy00&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imakashy00&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
--->
-[![](https://visitcount.itsvg.in/api?id=imakashy00&icon=0&color=0)](https://visitcount.itsvg.in)
