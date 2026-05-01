@@ -1,7 +1,9 @@
-![](https://komarev.com/ghpvc/?username=imakashy00)
 
 <div align="center">
-  
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imakashy00" alt="imakashy00" />
+</p>
+
 # 👋 Hey, I'm Akash Yadav!  
 
 🚀 **Software Developer** 
