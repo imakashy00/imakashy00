@@ -41,7 +41,7 @@ Welcome to my GitHub! Here, you'll find projects on:
 ## 👨‍💻 Tech Stack:
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,react,postgresql,langraph" />
+    <img src="https://skillicons.dev/icons?i=fastapi,react,postgresql,langgraph" />
   </a>
 </p>
   
