@@ -20,7 +20,7 @@ I’m passionate about **Building products that make an impact**. </br>
 
 ## 🔥 What You'll Find Here  
 Welcome to my GitHub! Here, you'll find projects on:  
-- ** cli tools, Data Structures in Rust**
+- **Cli tools, Data Structures in Rust**
 - **AI Agents, Chatbots and Cli 🤖**  
 - **SaaS & Micro-SaaS 🚀**  
 
