@@ -9,18 +9,18 @@
 🚀 **Software Developer** 
 </div>
 
-I’m passionate about **AI agents, startups, and building products that make an impact**. </br>
-I built **YTNotes**, and now I’m exploring the future of AI-driven automation.
+I’m passionate about **Building products that make an impact**. </br>
 
 
 
 ## 💫 About Me  
 🔭 I’m currently working as SDE at **LTM**  
-🌱 I’m currently learning **AI Agents, RAG, Finance**  
+🌱 I’m currently learning **Rust**  
 ⚡ Always exploring new ideas to build impactful products!  
 
 ## 🔥 What You'll Find Here  
 Welcome to my GitHub! Here, you'll find projects on:  
+- ** cli tools, Data Structures in Rust**
 - **AI Agents, Chatbots and Cli 🤖**  
 - **SaaS & Micro-SaaS 🚀**  
 
@@ -45,7 +45,7 @@ Welcome to my GitHub! Here, you'll find projects on:
 ## 👨‍💻 Tech Stack:
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,rust,postgresql" />
+    <img src="https://skillicons.dev/icons?i=rust,python,javascript" />
   </a>
 </p>
   
